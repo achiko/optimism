@@ -364,8 +364,6 @@ contract Initializer_Test is CommonTest {
                 )
             })
         );
-
-        nicknames["OptimismPortal2"] = "OptimismPortal";
     }
 
     /// @notice Tests that:
